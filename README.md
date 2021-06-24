@@ -12,9 +12,11 @@ Goal: Allocate all jobs in the machines, to define their sequences on machines a
 
 ## Objective
 
-minimize energy:                                               𝑀𝑖𝑛:𝑐𝑚𝑎𝑥
+minimize energy:                                               
+𝑀𝑖𝑛:𝑐𝑚𝑎𝑥
  
-minimize penalty:                                              𝑀𝑖𝑛:𝑇𝐸𝐶
+minimize penalty:                                              
+𝑀𝑖𝑛:𝑇𝐸𝐶
 
 Decision variables:
 
