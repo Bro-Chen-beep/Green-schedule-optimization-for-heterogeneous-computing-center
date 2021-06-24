@@ -12,10 +12,10 @@ Goal: Allocate all jobs in the machines, to define their sequences on machines a
 
 ## Objective
 
-minimize energy:
-𝑀𝑖𝑛:𝑐𝑚𝑎𝑥
+minimize energy:                                               𝑀𝑖𝑛:𝑐𝑚𝑎𝑥
  
-minimize penalty:
-𝑀𝑖𝑛:𝑇𝐸𝐶
+minimize penalty:                                              𝑀𝑖𝑛:𝑇𝐸𝐶
+
+Decision variables:
 
 ![](https://github.com/EE91941387EE/Green-schedule-optimization-for-heterogeneous-computing-center/blob/main/images/%E5%9C%96%E7%89%872.png)  
