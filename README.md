@@ -30,7 +30,7 @@ Other setting parameter:
 
 The other detailed constraints are in the paper.
 
-https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.12566
+Cota, L. P. et al. “Bi-criteria formulation for green scheduling with unrelated parallel machines with sequence-dependent setup times.” Int. Trans. Oper. Res. 28 (2021): 996-1017.
 
 ## Methodology
 
@@ -116,11 +116,4 @@ Moreover, we consider the change of marginal utility of processing rate for each
 
 Reference
 
-@article{Cota2021BicriteriaFF,
-  title={Bi-criteria formulation for green scheduling with unrelated parallel machines with sequence-dependent setup times},
-  author={L. P. Cota and V. N. Coelho and F. Guimar{\~a}es and Marcone J. F. Souza},
-  journal={Int. Trans. Oper. Res.},
-  year={2021},
-  volume={28},
-  pages={996-1017}
-}
+Cota, L. P. et al. “Bi-criteria formulation for green scheduling with unrelated parallel machines with sequence-dependent setup times.” Int. Trans. Oper. Res. 28 (2021): 996-1017.
