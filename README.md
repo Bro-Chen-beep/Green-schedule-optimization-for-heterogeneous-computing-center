@@ -76,7 +76,15 @@ When the machines are already assigned some jobs, we assume the speed and the po
 
 v : speed (efficiency)
 
+![](https://github.com/EE91941387EE/Green-schedule-optimization-for-heterogeneous-computing-center/blob/main/images/v_formula.png)
+
+p1=0.1 ,p2=1 ,q1=0.1
+
 lambda : power
+
+![](https://github.com/EE91941387EE/Green-schedule-optimization-for-heterogeneous-computing-center/blob/main/images/lambda_formula.png)
+
+p1=10 ,p2=1 ,q1=0.1
 
 ![](https://github.com/EE91941387EE/Green-schedule-optimization-for-heterogeneous-computing-center/blob/main/images/%E5%9C%96%E7%89%8711.png)
 
