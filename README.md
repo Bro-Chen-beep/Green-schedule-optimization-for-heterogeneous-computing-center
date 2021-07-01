@@ -12,6 +12,7 @@ Goal: Allocate all jobs in the machines, to define their sequences on machines a
 
 ## Objective
 
+
 minimize energy:                                               
 𝑀𝑖𝑛:𝑐𝑚𝑎𝑥
  
@@ -73,6 +74,8 @@ They have the mean and the variance and we use SAA to find the range of the obje
 More, we want to consider not only job allocating in one time but also allocating the jobs step by step.
 
 When the machines are already assigned some jobs, we assume the speed and the power of those machine will change non-linearly.
+
+Nonlinear-Modeling:
 
 v : speed (efficiency)
 
